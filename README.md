@@ -86,7 +86,7 @@ Located in the root `CleanArchitecture/` project
 
 ```bash
 # Clone the repository
-git clone https://github.com/danishbilalansari/CleanArchitecture.git
+git clone https://github.com/danishbilalansari/CleanArchitectureCQRSNet.git
 cd CleanArchitecture
 
 # Restore dependencies
